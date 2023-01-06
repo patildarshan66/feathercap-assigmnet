@@ -38,4 +38,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo APK
 
-[Click here](https://github.com/patildarshan66/feathercap-assigmnet/blob/master/assignment-app.apk) for download demo app.
+[Click here](https://github.com/patildarshan66/feathercap-assigmnet/blob/master/assigment-app.apk) for download demo app.
